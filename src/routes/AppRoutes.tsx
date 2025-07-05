@@ -11,7 +11,7 @@ import Directors from "../pages/Directors";
 import Focus from "../pages/Focus";
 import Profile from "../pages/Profile";
 import Vision from "../pages/Vision";
-import ManagmentTeams from "../pages/managementTeams";
+import ManagmentTeams from "../pages/ManagementTeams";
 
 const AppRoutes = () => {
   return (
